@@ -31,7 +31,7 @@ while True:
             print(f"\n\nKaede : Your Current Balance Is ${balance}\n")
 
         else:
-            print("Insufficent Cash.")
+            print("\n\nKaede : Insufficent Cash.")
 
     if choice == 2:
         deposit = int(input("\n\nKaede : Enter The Money You'd Like To Deposit -> "))
